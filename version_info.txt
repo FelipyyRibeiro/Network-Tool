@@ -1,0 +1,35 @@
+# UTF-8
+#
+# Arquivo de metadados de versão para o executável Windows.
+# Isso ajuda a aumentar a "reputação" do arquivo para antivírus, pois adiciona
+# informações legítimas de Copyright, Empresa e Versão.
+
+VSVersionInfo(
+  ffi=FixedFileInfo(
+    # filevers e prodvers devem ser sempre tuplas de 4 inteiros: (1, 2, 3, 4)
+    filevers=(3, 0, 0, 0),
+    prodvers=(3, 0, 0, 0),
+    mask=0x3f,
+    flags=0x0,
+    OS=0x40004, # VOS_NT_WINDOWS32
+    fileType=0x1, # VFT_APP
+    subtype=0x0,
+    date=(0, 0)
+    ),
+  kids=[
+    StringFileInfo(
+      [
+      StringTable(
+        u'041604b0', # 0416 = Português (Brasil), 04b0 = Unicode
+        [StringStruct(u'CompanyName', u'Felipe Ribeiro'),
+        StringStruct(u'FileDescription', u'NetDiag Tool - Utilitário de Diagnóstico de Rede'),
+        StringStruct(u'FileVersion', u'3.0.0.0'),
+        StringStruct(u'InternalName', u'NetDiagTool'),
+        StringStruct(u'LegalCopyright', u'© 2024 Felipe Ribeiro. Todos os direitos reservados.'),
+        StringStruct(u'OriginalFilename', u'NetDiagTool.exe'),
+        StringStruct(u'ProductName', u'NetDiag Tool'),
+        StringStruct(u'ProductVersion', u'3.0.0.0')])
+      ]), 
+    VarFileInfo([VarStruct(u'Translation', [1046, 1200])]) # 1046 = pt-BR
+  ]
+)

@@ -1,2 +1,5 @@
-customtkinter
-getmac 
+flet
+psutil
+scapy
+wmi
+pywin32

@@ -1,0 +1,3433 @@
+('C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+ 'Tool\\build\\NetDiagTool\\PYZ-00.pyz',
+ [('__future__',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__future__.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('_compression',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_compression.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_py_abc.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('_strptime',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_strptime.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_threading_local.py',
+   'PYMODULE'),
+  ('anyio',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\anyio\\__init__.py',
+   'PYMODULE'),
+  ('anyio._backends',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\anyio\\_backends\\__init__.py',
+   'PYMODULE'),
+  ('anyio._backends._asyncio',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\anyio\\_backends\\_asyncio.py',
+   'PYMODULE'),
+  ('anyio._backends._trio',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\anyio\\_backends\\_trio.py',
+   'PYMODULE'),
+  ('anyio._core',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\anyio\\_core\\__init__.py',
+   'PYMODULE'),
+  ('anyio._core._asyncio_selector_thread',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\anyio\\_core\\_asyncio_selector_thread.py',
+   'PYMODULE'),
+  ('anyio._core._contextmanagers',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\anyio\\_core\\_contextmanagers.py',
+   'PYMODULE'),
+  ('anyio._core._eventloop',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\anyio\\_core\\_eventloop.py',
+   'PYMODULE'),
+  ('anyio._core._exceptions',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\anyio\\_core\\_exceptions.py',
+   'PYMODULE'),
+  ('anyio._core._fileio',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\anyio\\_core\\_fileio.py',
+   'PYMODULE'),
+  ('anyio._core._resources',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\anyio\\_core\\_resources.py',
+   'PYMODULE'),
+  ('anyio._core._signals',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\anyio\\_core\\_signals.py',
+   'PYMODULE'),
+  ('anyio._core._sockets',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\anyio\\_core\\_sockets.py',
+   'PYMODULE'),
+  ('anyio._core._streams',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\anyio\\_core\\_streams.py',
+   'PYMODULE'),
+  ('anyio._core._subprocesses',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\anyio\\_core\\_subprocesses.py',
+   'PYMODULE'),
+  ('anyio._core._synchronization',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\anyio\\_core\\_synchronization.py',
+   'PYMODULE'),
+  ('anyio._core._tasks',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\anyio\\_core\\_tasks.py',
+   'PYMODULE'),
+  ('anyio._core._tempfile',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\anyio\\_core\\_tempfile.py',
+   'PYMODULE'),
+  ('anyio._core._testing',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\anyio\\_core\\_testing.py',
+   'PYMODULE'),
+  ('anyio._core._typedattr',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\anyio\\_core\\_typedattr.py',
+   'PYMODULE'),
+  ('anyio.abc',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\anyio\\abc\\__init__.py',
+   'PYMODULE'),
+  ('anyio.abc._eventloop',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\anyio\\abc\\_eventloop.py',
+   'PYMODULE'),
+  ('anyio.abc._resources',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\anyio\\abc\\_resources.py',
+   'PYMODULE'),
+  ('anyio.abc._sockets',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\anyio\\abc\\_sockets.py',
+   'PYMODULE'),
+  ('anyio.abc._streams',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\anyio\\abc\\_streams.py',
+   'PYMODULE'),
+  ('anyio.abc._subprocesses',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\anyio\\abc\\_subprocesses.py',
+   'PYMODULE'),
+  ('anyio.abc._tasks',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\anyio\\abc\\_tasks.py',
+   'PYMODULE'),
+  ('anyio.abc._testing',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\anyio\\abc\\_testing.py',
+   'PYMODULE'),
+  ('anyio.from_thread',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\anyio\\from_thread.py',
+   'PYMODULE'),
+  ('anyio.lowlevel',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\anyio\\lowlevel.py',
+   'PYMODULE'),
+  ('anyio.streams',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\anyio\\streams\\__init__.py',
+   'PYMODULE'),
+  ('anyio.streams.memory',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\anyio\\streams\\memory.py',
+   'PYMODULE'),
+  ('anyio.streams.stapled',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\anyio\\streams\\stapled.py',
+   'PYMODULE'),
+  ('anyio.streams.tls',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\anyio\\streams\\tls.py',
+   'PYMODULE'),
+  ('anyio.to_thread',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\anyio\\to_thread.py',
+   'PYMODULE'),
+  ('argparse',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\argparse.py',
+   'PYMODULE'),
+  ('ast',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ast.py',
+   'PYMODULE'),
+  ('asyncio',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.base_events',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\base_events.py',
+   'PYMODULE'),
+  ('asyncio.base_futures',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\base_futures.py',
+   'PYMODULE'),
+  ('asyncio.base_subprocess',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\base_subprocess.py',
+   'PYMODULE'),
+  ('asyncio.base_tasks',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\base_tasks.py',
+   'PYMODULE'),
+  ('asyncio.constants',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\constants.py',
+   'PYMODULE'),
+  ('asyncio.coroutines',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\coroutines.py',
+   'PYMODULE'),
+  ('asyncio.events',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\events.py',
+   'PYMODULE'),
+  ('asyncio.exceptions',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\exceptions.py',
+   'PYMODULE'),
+  ('asyncio.format_helpers',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\format_helpers.py',
+   'PYMODULE'),
+  ('asyncio.futures',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\futures.py',
+   'PYMODULE'),
+  ('asyncio.locks',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\locks.py',
+   'PYMODULE'),
+  ('asyncio.log',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\log.py',
+   'PYMODULE'),
+  ('asyncio.proactor_events',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\proactor_events.py',
+   'PYMODULE'),
+  ('asyncio.protocols',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\protocols.py',
+   'PYMODULE'),
+  ('asyncio.queues',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\queues.py',
+   'PYMODULE'),
+  ('asyncio.runners',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\runners.py',
+   'PYMODULE'),
+  ('asyncio.selector_events',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\selector_events.py',
+   'PYMODULE'),
+  ('asyncio.sslproto',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\sslproto.py',
+   'PYMODULE'),
+  ('asyncio.staggered',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\staggered.py',
+   'PYMODULE'),
+  ('asyncio.streams',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\streams.py',
+   'PYMODULE'),
+  ('asyncio.subprocess',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\subprocess.py',
+   'PYMODULE'),
+  ('asyncio.tasks',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\tasks.py',
+   'PYMODULE'),
+  ('asyncio.threads',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\threads.py',
+   'PYMODULE'),
+  ('asyncio.transports',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\transports.py',
+   'PYMODULE'),
+  ('asyncio.trsock',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\trsock.py',
+   'PYMODULE'),
+  ('asyncio.unix_events',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\unix_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_events',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\windows_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_utils',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\windows_utils.py',
+   'PYMODULE'),
+  ('base64',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\base64.py',
+   'PYMODULE'),
+  ('bisect',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\bisect.py',
+   'PYMODULE'),
+  ('bz2',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\bz2.py',
+   'PYMODULE'),
+  ('calendar',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\calendar.py',
+   'PYMODULE'),
+  ('certifi',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\certifi\\__init__.py',
+   'PYMODULE'),
+  ('certifi.core',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\certifi\\core.py',
+   'PYMODULE'),
+  ('code',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\code.py',
+   'PYMODULE'),
+  ('codeop',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\codeop.py',
+   'PYMODULE'),
+  ('commctrl',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\win32\\lib\\commctrl.py',
+   'PYMODULE'),
+  ('concurrent',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\concurrent\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\concurrent\\futures\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures._base',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\concurrent\\futures\\_base.py',
+   'PYMODULE'),
+  ('concurrent.futures.process',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\concurrent\\futures\\process.py',
+   'PYMODULE'),
+  ('concurrent.futures.thread',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\concurrent\\futures\\thread.py',
+   'PYMODULE'),
+  ('configparser',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\configparser.py',
+   'PYMODULE'),
+  ('contextlib',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\contextlib.py',
+   'PYMODULE'),
+  ('contextvars',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\contextvars.py',
+   'PYMODULE'),
+  ('copy',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\copy.py',
+   'PYMODULE'),
+  ('csv',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\csv.py',
+   'PYMODULE'),
+  ('ctypes',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._aix',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ctypes\\_aix.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('ctypes.macholib',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ctypes\\macholib\\__init__.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dyld',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ctypes\\macholib\\dyld.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dylib',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ctypes\\macholib\\dylib.py',
+   'PYMODULE'),
+  ('ctypes.macholib.framework',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ctypes\\macholib\\framework.py',
+   'PYMODULE'),
+  ('ctypes.util',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ctypes\\util.py',
+   'PYMODULE'),
+  ('ctypes.wintypes',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ctypes\\wintypes.py',
+   'PYMODULE'),
+  ('dataclasses',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\dataclasses.py',
+   'PYMODULE'),
+  ('datetime',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\datetime.py',
+   'PYMODULE'),
+  ('decimal',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\decimal.py',
+   'PYMODULE'),
+  ('difflib',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\difflib.py',
+   'PYMODULE'),
+  ('dis',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\dis.py',
+   'PYMODULE'),
+  ('email',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email.charset',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.errors',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email.generator',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email.header',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.message',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.parser',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.policy',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.utils',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\utils.py',
+   'PYMODULE'),
+  ('exceptiongroup',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\exceptiongroup\\__init__.py',
+   'PYMODULE'),
+  ('exceptiongroup._catch',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\exceptiongroup\\_catch.py',
+   'PYMODULE'),
+  ('exceptiongroup._exceptions',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\exceptiongroup\\_exceptions.py',
+   'PYMODULE'),
+  ('exceptiongroup._formatting',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\exceptiongroup\\_formatting.py',
+   'PYMODULE'),
+  ('exceptiongroup._suppress',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\exceptiongroup\\_suppress.py',
+   'PYMODULE'),
+  ('exceptiongroup._version',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\exceptiongroup\\_version.py',
+   'PYMODULE'),
+  ('flet',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\__init__.py',
+   'PYMODULE'),
+  ('flet.ads',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\ads\\__init__.py',
+   'PYMODULE'),
+  ('flet.app',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\app.py',
+   'PYMODULE'),
+  ('flet.auth',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\auth\\__init__.py',
+   'PYMODULE'),
+  ('flet.auth.authorization',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\auth\\authorization.py',
+   'PYMODULE'),
+  ('flet.auth.group',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\auth\\group.py',
+   'PYMODULE'),
+  ('flet.auth.oauth_provider',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\auth\\oauth_provider.py',
+   'PYMODULE'),
+  ('flet.auth.oauth_token',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\auth\\oauth_token.py',
+   'PYMODULE'),
+  ('flet.auth.providers',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\auth\\providers\\__init__.py',
+   'PYMODULE'),
+  ('flet.auth.providers.auth0_oauth_provider',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\auth\\providers\\auth0_oauth_provider.py',
+   'PYMODULE'),
+  ('flet.auth.providers.azure_oauth_provider',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\auth\\providers\\azure_oauth_provider.py',
+   'PYMODULE'),
+  ('flet.auth.providers.github_oauth_provider',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\auth\\providers\\github_oauth_provider.py',
+   'PYMODULE'),
+  ('flet.auth.providers.google_oauth_provider',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\auth\\providers\\google_oauth_provider.py',
+   'PYMODULE'),
+  ('flet.auth.user',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\auth\\user.py',
+   'PYMODULE'),
+  ('flet.canvas',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\canvas\\__init__.py',
+   'PYMODULE'),
+  ('flet.cli',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\cli.py',
+   'PYMODULE'),
+  ('flet.core', '-', 'PYMODULE'),
+  ('flet.core.adaptive_control',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\adaptive_control.py',
+   'PYMODULE'),
+  ('flet.core.ads', '-', 'PYMODULE'),
+  ('flet.core.ads.banner',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\ads\\banner.py',
+   'PYMODULE'),
+  ('flet.core.ads.base_ad',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\ads\\base_ad.py',
+   'PYMODULE'),
+  ('flet.core.ads.interstitial',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\ads\\interstitial.py',
+   'PYMODULE'),
+  ('flet.core.alert_dialog',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\alert_dialog.py',
+   'PYMODULE'),
+  ('flet.core.alignment',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\alignment.py',
+   'PYMODULE'),
+  ('flet.core.animated_switcher',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\animated_switcher.py',
+   'PYMODULE'),
+  ('flet.core.animation',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\animation.py',
+   'PYMODULE'),
+  ('flet.core.app_bar',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\app_bar.py',
+   'PYMODULE'),
+  ('flet.core.audio',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\audio.py',
+   'PYMODULE'),
+  ('flet.core.audio_recorder',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\audio_recorder.py',
+   'PYMODULE'),
+  ('flet.core.auto_complete',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\auto_complete.py',
+   'PYMODULE'),
+  ('flet.core.autofill_group',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\autofill_group.py',
+   'PYMODULE'),
+  ('flet.core.badge',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\badge.py',
+   'PYMODULE'),
+  ('flet.core.banner',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\banner.py',
+   'PYMODULE'),
+  ('flet.core.blur',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\blur.py',
+   'PYMODULE'),
+  ('flet.core.border',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\border.py',
+   'PYMODULE'),
+  ('flet.core.border_radius',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\border_radius.py',
+   'PYMODULE'),
+  ('flet.core.bottom_app_bar',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\bottom_app_bar.py',
+   'PYMODULE'),
+  ('flet.core.bottom_sheet',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\bottom_sheet.py',
+   'PYMODULE'),
+  ('flet.core.box',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\box.py',
+   'PYMODULE'),
+  ('flet.core.button',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\button.py',
+   'PYMODULE'),
+  ('flet.core.buttons',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\buttons.py',
+   'PYMODULE'),
+  ('flet.core.canvas', '-', 'PYMODULE'),
+  ('flet.core.canvas.arc',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\canvas\\arc.py',
+   'PYMODULE'),
+  ('flet.core.canvas.canvas',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\canvas\\canvas.py',
+   'PYMODULE'),
+  ('flet.core.canvas.circle',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\canvas\\circle.py',
+   'PYMODULE'),
+  ('flet.core.canvas.color',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\canvas\\color.py',
+   'PYMODULE'),
+  ('flet.core.canvas.fill',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\canvas\\fill.py',
+   'PYMODULE'),
+  ('flet.core.canvas.line',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\canvas\\line.py',
+   'PYMODULE'),
+  ('flet.core.canvas.oval',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\canvas\\oval.py',
+   'PYMODULE'),
+  ('flet.core.canvas.path',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\canvas\\path.py',
+   'PYMODULE'),
+  ('flet.core.canvas.points',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\canvas\\points.py',
+   'PYMODULE'),
+  ('flet.core.canvas.rect',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\canvas\\rect.py',
+   'PYMODULE'),
+  ('flet.core.canvas.shadow',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\canvas\\shadow.py',
+   'PYMODULE'),
+  ('flet.core.canvas.shape',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\canvas\\shape.py',
+   'PYMODULE'),
+  ('flet.core.canvas.text',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\canvas\\text.py',
+   'PYMODULE'),
+  ('flet.core.card',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\card.py',
+   'PYMODULE'),
+  ('flet.core.charts', '-', 'PYMODULE'),
+  ('flet.core.charts.bar_chart',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\charts\\bar_chart.py',
+   'PYMODULE'),
+  ('flet.core.charts.bar_chart_group',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\charts\\bar_chart_group.py',
+   'PYMODULE'),
+  ('flet.core.charts.bar_chart_rod',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\charts\\bar_chart_rod.py',
+   'PYMODULE'),
+  ('flet.core.charts.bar_chart_rod_stack_item',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\charts\\bar_chart_rod_stack_item.py',
+   'PYMODULE'),
+  ('flet.core.charts.chart_axis',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\charts\\chart_axis.py',
+   'PYMODULE'),
+  ('flet.core.charts.chart_axis_label',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\charts\\chart_axis_label.py',
+   'PYMODULE'),
+  ('flet.core.charts.chart_grid_lines',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\charts\\chart_grid_lines.py',
+   'PYMODULE'),
+  ('flet.core.charts.chart_point_line',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\charts\\chart_point_line.py',
+   'PYMODULE'),
+  ('flet.core.charts.chart_point_shape',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\charts\\chart_point_shape.py',
+   'PYMODULE'),
+  ('flet.core.charts.line_chart',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\charts\\line_chart.py',
+   'PYMODULE'),
+  ('flet.core.charts.line_chart_data',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\charts\\line_chart_data.py',
+   'PYMODULE'),
+  ('flet.core.charts.line_chart_data_point',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\charts\\line_chart_data_point.py',
+   'PYMODULE'),
+  ('flet.core.charts.pie_chart',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\charts\\pie_chart.py',
+   'PYMODULE'),
+  ('flet.core.charts.pie_chart_section',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\charts\\pie_chart_section.py',
+   'PYMODULE'),
+  ('flet.core.checkbox',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\checkbox.py',
+   'PYMODULE'),
+  ('flet.core.chip',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\chip.py',
+   'PYMODULE'),
+  ('flet.core.circle_avatar',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\circle_avatar.py',
+   'PYMODULE'),
+  ('flet.core.client_storage',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\client_storage.py',
+   'PYMODULE'),
+  ('flet.core.colors',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\colors.py',
+   'PYMODULE'),
+  ('flet.core.column',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\column.py',
+   'PYMODULE'),
+  ('flet.core.connection',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\connection.py',
+   'PYMODULE'),
+  ('flet.core.constrained_control',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\constrained_control.py',
+   'PYMODULE'),
+  ('flet.core.container',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\container.py',
+   'PYMODULE'),
+  ('flet.core.control',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\control.py',
+   'PYMODULE'),
+  ('flet.core.control_event',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\control_event.py',
+   'PYMODULE'),
+  ('flet.core.cupertino_action_sheet',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\cupertino_action_sheet.py',
+   'PYMODULE'),
+  ('flet.core.cupertino_action_sheet_action',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\cupertino_action_sheet_action.py',
+   'PYMODULE'),
+  ('flet.core.cupertino_activity_indicator',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\cupertino_activity_indicator.py',
+   'PYMODULE'),
+  ('flet.core.cupertino_alert_dialog',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\cupertino_alert_dialog.py',
+   'PYMODULE'),
+  ('flet.core.cupertino_app_bar',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\cupertino_app_bar.py',
+   'PYMODULE'),
+  ('flet.core.cupertino_bottom_sheet',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\cupertino_bottom_sheet.py',
+   'PYMODULE'),
+  ('flet.core.cupertino_button',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\cupertino_button.py',
+   'PYMODULE'),
+  ('flet.core.cupertino_checkbox',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\cupertino_checkbox.py',
+   'PYMODULE'),
+  ('flet.core.cupertino_colors',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\cupertino_colors.py',
+   'PYMODULE'),
+  ('flet.core.cupertino_context_menu',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\cupertino_context_menu.py',
+   'PYMODULE'),
+  ('flet.core.cupertino_context_menu_action',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\cupertino_context_menu_action.py',
+   'PYMODULE'),
+  ('flet.core.cupertino_date_picker',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\cupertino_date_picker.py',
+   'PYMODULE'),
+  ('flet.core.cupertino_dialog_action',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\cupertino_dialog_action.py',
+   'PYMODULE'),
+  ('flet.core.cupertino_filled_button',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\cupertino_filled_button.py',
+   'PYMODULE'),
+  ('flet.core.cupertino_icons',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\cupertino_icons.py',
+   'PYMODULE'),
+  ('flet.core.cupertino_list_tile',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\cupertino_list_tile.py',
+   'PYMODULE'),
+  ('flet.core.cupertino_navigation_bar',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\cupertino_navigation_bar.py',
+   'PYMODULE'),
+  ('flet.core.cupertino_picker',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\cupertino_picker.py',
+   'PYMODULE'),
+  ('flet.core.cupertino_radio',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\cupertino_radio.py',
+   'PYMODULE'),
+  ('flet.core.cupertino_segmented_button',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\cupertino_segmented_button.py',
+   'PYMODULE'),
+  ('flet.core.cupertino_slider',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\cupertino_slider.py',
+   'PYMODULE'),
+  ('flet.core.cupertino_sliding_segmented_button',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\cupertino_sliding_segmented_button.py',
+   'PYMODULE'),
+  ('flet.core.cupertino_switch',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\cupertino_switch.py',
+   'PYMODULE'),
+  ('flet.core.cupertino_textfield',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\cupertino_textfield.py',
+   'PYMODULE'),
+  ('flet.core.cupertino_timer_picker',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\cupertino_timer_picker.py',
+   'PYMODULE'),
+  ('flet.core.datatable',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\datatable.py',
+   'PYMODULE'),
+  ('flet.core.date_picker',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\date_picker.py',
+   'PYMODULE'),
+  ('flet.core.dismissible',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\dismissible.py',
+   'PYMODULE'),
+  ('flet.core.divider',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\divider.py',
+   'PYMODULE'),
+  ('flet.core.drag_target',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\drag_target.py',
+   'PYMODULE'),
+  ('flet.core.draggable',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\draggable.py',
+   'PYMODULE'),
+  ('flet.core.dropdown',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\dropdown.py',
+   'PYMODULE'),
+  ('flet.core.dropdownm2',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\dropdownm2.py',
+   'PYMODULE'),
+  ('flet.core.elevated_button',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\elevated_button.py',
+   'PYMODULE'),
+  ('flet.core.embed_json_encoder',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\embed_json_encoder.py',
+   'PYMODULE'),
+  ('flet.core.event',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\event.py',
+   'PYMODULE'),
+  ('flet.core.event_handler',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\event_handler.py',
+   'PYMODULE'),
+  ('flet.core.exceptions',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\exceptions.py',
+   'PYMODULE'),
+  ('flet.core.expansion_panel',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\expansion_panel.py',
+   'PYMODULE'),
+  ('flet.core.expansion_tile',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\expansion_tile.py',
+   'PYMODULE'),
+  ('flet.core.file_picker',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\file_picker.py',
+   'PYMODULE'),
+  ('flet.core.filled_button',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\filled_button.py',
+   'PYMODULE'),
+  ('flet.core.filled_tonal_button',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\filled_tonal_button.py',
+   'PYMODULE'),
+  ('flet.core.flashlight',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\flashlight.py',
+   'PYMODULE'),
+  ('flet.core.flet_app',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\flet_app.py',
+   'PYMODULE'),
+  ('flet.core.floating_action_button',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\floating_action_button.py',
+   'PYMODULE'),
+  ('flet.core.form_field_control',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\form_field_control.py',
+   'PYMODULE'),
+  ('flet.core.geolocator',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\geolocator.py',
+   'PYMODULE'),
+  ('flet.core.gesture_detector',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\gesture_detector.py',
+   'PYMODULE'),
+  ('flet.core.gradients',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\gradients.py',
+   'PYMODULE'),
+  ('flet.core.grid_view',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\grid_view.py',
+   'PYMODULE'),
+  ('flet.core.haptic_feedback',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\haptic_feedback.py',
+   'PYMODULE'),
+  ('flet.core.icon',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\icon.py',
+   'PYMODULE'),
+  ('flet.core.icon_button',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\icon_button.py',
+   'PYMODULE'),
+  ('flet.core.icons',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\icons.py',
+   'PYMODULE'),
+  ('flet.core.image',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\image.py',
+   'PYMODULE'),
+  ('flet.core.inline_span',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\inline_span.py',
+   'PYMODULE'),
+  ('flet.core.interactive_viewer',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\interactive_viewer.py',
+   'PYMODULE'),
+  ('flet.core.list_tile',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\list_tile.py',
+   'PYMODULE'),
+  ('flet.core.list_view',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\list_view.py',
+   'PYMODULE'),
+  ('flet.core.local_connection',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\local_connection.py',
+   'PYMODULE'),
+  ('flet.core.locks',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\locks.py',
+   'PYMODULE'),
+  ('flet.core.lottie',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\lottie.py',
+   'PYMODULE'),
+  ('flet.core.margin',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\margin.py',
+   'PYMODULE'),
+  ('flet.core.markdown',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\markdown.py',
+   'PYMODULE'),
+  ('flet.core.matplotlib_chart',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\matplotlib_chart.py',
+   'PYMODULE'),
+  ('flet.core.menu_bar',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\menu_bar.py',
+   'PYMODULE'),
+  ('flet.core.menu_item_button',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\menu_item_button.py',
+   'PYMODULE'),
+  ('flet.core.navigation_bar',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\navigation_bar.py',
+   'PYMODULE'),
+  ('flet.core.navigation_drawer',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\navigation_drawer.py',
+   'PYMODULE'),
+  ('flet.core.navigation_rail',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\navigation_rail.py',
+   'PYMODULE'),
+  ('flet.core.outlined_button',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\outlined_button.py',
+   'PYMODULE'),
+  ('flet.core.padding',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\padding.py',
+   'PYMODULE'),
+  ('flet.core.page',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\page.py',
+   'PYMODULE'),
+  ('flet.core.pagelet',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\pagelet.py',
+   'PYMODULE'),
+  ('flet.core.painting',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\painting.py',
+   'PYMODULE'),
+  ('flet.core.permission_handler',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\permission_handler.py',
+   'PYMODULE'),
+  ('flet.core.placeholder',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\placeholder.py',
+   'PYMODULE'),
+  ('flet.core.plotly_chart',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\plotly_chart.py',
+   'PYMODULE'),
+  ('flet.core.popup_menu_button',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\popup_menu_button.py',
+   'PYMODULE'),
+  ('flet.core.progress_bar',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\progress_bar.py',
+   'PYMODULE'),
+  ('flet.core.progress_ring',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\progress_ring.py',
+   'PYMODULE'),
+  ('flet.core.protocol',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\protocol.py',
+   'PYMODULE'),
+  ('flet.core.pubsub', '-', 'PYMODULE'),
+  ('flet.core.pubsub.pubsub_client',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\pubsub\\pubsub_client.py',
+   'PYMODULE'),
+  ('flet.core.pubsub.pubsub_hub',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\pubsub\\pubsub_hub.py',
+   'PYMODULE'),
+  ('flet.core.querystring',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\querystring.py',
+   'PYMODULE'),
+  ('flet.core.radio',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\radio.py',
+   'PYMODULE'),
+  ('flet.core.radio_group',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\radio_group.py',
+   'PYMODULE'),
+  ('flet.core.range_slider',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\range_slider.py',
+   'PYMODULE'),
+  ('flet.core.ref',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\ref.py',
+   'PYMODULE'),
+  ('flet.core.reorderable_draggable',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\reorderable_draggable.py',
+   'PYMODULE'),
+  ('flet.core.reorderable_list_view',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\reorderable_list_view.py',
+   'PYMODULE'),
+  ('flet.core.responsive_row',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\responsive_row.py',
+   'PYMODULE'),
+  ('flet.core.rive',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\rive.py',
+   'PYMODULE'),
+  ('flet.core.row',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\row.py',
+   'PYMODULE'),
+  ('flet.core.safe_area',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\safe_area.py',
+   'PYMODULE'),
+  ('flet.core.scrollable_control',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\scrollable_control.py',
+   'PYMODULE'),
+  ('flet.core.search_bar',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\search_bar.py',
+   'PYMODULE'),
+  ('flet.core.segmented_button',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\segmented_button.py',
+   'PYMODULE'),
+  ('flet.core.selection_area',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\selection_area.py',
+   'PYMODULE'),
+  ('flet.core.semantics',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\semantics.py',
+   'PYMODULE'),
+  ('flet.core.semantics_service',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\semantics_service.py',
+   'PYMODULE'),
+  ('flet.core.session_storage',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\session_storage.py',
+   'PYMODULE'),
+  ('flet.core.shader_mask',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\shader_mask.py',
+   'PYMODULE'),
+  ('flet.core.shake_detector',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\shake_detector.py',
+   'PYMODULE'),
+  ('flet.core.size',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\size.py',
+   'PYMODULE'),
+  ('flet.core.slider',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\slider.py',
+   'PYMODULE'),
+  ('flet.core.snack_bar',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\snack_bar.py',
+   'PYMODULE'),
+  ('flet.core.stack',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\stack.py',
+   'PYMODULE'),
+  ('flet.core.submenu_button',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\submenu_button.py',
+   'PYMODULE'),
+  ('flet.core.switch',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\switch.py',
+   'PYMODULE'),
+  ('flet.core.tabs',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\tabs.py',
+   'PYMODULE'),
+  ('flet.core.template_route',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\template_route.py',
+   'PYMODULE'),
+  ('flet.core.text',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\text.py',
+   'PYMODULE'),
+  ('flet.core.text_button',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\text_button.py',
+   'PYMODULE'),
+  ('flet.core.text_span',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\text_span.py',
+   'PYMODULE'),
+  ('flet.core.text_style',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\text_style.py',
+   'PYMODULE'),
+  ('flet.core.textfield',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\textfield.py',
+   'PYMODULE'),
+  ('flet.core.theme',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\theme.py',
+   'PYMODULE'),
+  ('flet.core.time_picker',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\time_picker.py',
+   'PYMODULE'),
+  ('flet.core.tooltip',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\tooltip.py',
+   'PYMODULE'),
+  ('flet.core.transform',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\transform.py',
+   'PYMODULE'),
+  ('flet.core.transparent_pointer',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\transparent_pointer.py',
+   'PYMODULE'),
+  ('flet.core.types',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\types.py',
+   'PYMODULE'),
+  ('flet.core.vertical_divider',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\vertical_divider.py',
+   'PYMODULE'),
+  ('flet.core.video',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\video.py',
+   'PYMODULE'),
+  ('flet.core.view',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\view.py',
+   'PYMODULE'),
+  ('flet.core.webview',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\webview.py',
+   'PYMODULE'),
+  ('flet.core.window_drag_area',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\core\\window_drag_area.py',
+   'PYMODULE'),
+  ('flet.flet_socket_server',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\flet_socket_server.py',
+   'PYMODULE'),
+  ('flet.matplotlib_chart',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\matplotlib_chart.py',
+   'PYMODULE'),
+  ('flet.plotly_chart',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\plotly_chart.py',
+   'PYMODULE'),
+  ('flet.pyodide_connection',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\pyodide_connection.py',
+   'PYMODULE'),
+  ('flet.utils',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\utils\\__init__.py',
+   'PYMODULE'),
+  ('flet.utils.browser',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\utils\\browser.py',
+   'PYMODULE'),
+  ('flet.utils.classproperty',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\utils\\classproperty.py',
+   'PYMODULE'),
+  ('flet.utils.deprecated',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\utils\\deprecated.py',
+   'PYMODULE'),
+  ('flet.utils.files',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\utils\\files.py',
+   'PYMODULE'),
+  ('flet.utils.hashing',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\utils\\hashing.py',
+   'PYMODULE'),
+  ('flet.utils.network',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\utils\\network.py',
+   'PYMODULE'),
+  ('flet.utils.once',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\utils\\once.py',
+   'PYMODULE'),
+  ('flet.utils.pip',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\utils\\pip.py',
+   'PYMODULE'),
+  ('flet.utils.platform_utils',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\utils\\platform_utils.py',
+   'PYMODULE'),
+  ('flet.utils.slugify',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\utils\\slugify.py',
+   'PYMODULE'),
+  ('flet.utils.strings',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\utils\\strings.py',
+   'PYMODULE'),
+  ('flet.utils.vector',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\utils\\vector.py',
+   'PYMODULE'),
+  ('flet.version',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet\\version.py',
+   'PYMODULE'),
+  ('flet_desktop',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet_desktop\\__init__.py',
+   'PYMODULE'),
+  ('flet_desktop.version',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\flet_desktop\\version.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\fnmatch.py',
+   'PYMODULE'),
+  ('fractions',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\fractions.py',
+   'PYMODULE'),
+  ('ftplib',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ftplib.py',
+   'PYMODULE'),
+  ('getopt',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\getopt.py',
+   'PYMODULE'),
+  ('getpass',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\getpass.py',
+   'PYMODULE'),
+  ('gettext',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\gettext.py',
+   'PYMODULE'),
+  ('glob',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\glob.py',
+   'PYMODULE'),
+  ('gzip',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\gzip.py',
+   'PYMODULE'),
+  ('h11',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\h11\\__init__.py',
+   'PYMODULE'),
+  ('h11._abnf',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\h11\\_abnf.py',
+   'PYMODULE'),
+  ('h11._connection',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\h11\\_connection.py',
+   'PYMODULE'),
+  ('h11._events',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\h11\\_events.py',
+   'PYMODULE'),
+  ('h11._headers',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\h11\\_headers.py',
+   'PYMODULE'),
+  ('h11._readers',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\h11\\_readers.py',
+   'PYMODULE'),
+  ('h11._receivebuffer',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\h11\\_receivebuffer.py',
+   'PYMODULE'),
+  ('h11._state',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\h11\\_state.py',
+   'PYMODULE'),
+  ('h11._util',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\h11\\_util.py',
+   'PYMODULE'),
+  ('h11._version',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\h11\\_version.py',
+   'PYMODULE'),
+  ('h11._writers',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\h11\\_writers.py',
+   'PYMODULE'),
+  ('hashlib',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\hashlib.py',
+   'PYMODULE'),
+  ('hmac',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\hmac.py',
+   'PYMODULE'),
+  ('html',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('html.entities',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\html\\entities.py',
+   'PYMODULE'),
+  ('http',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('http.client',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\http\\client.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('httpcore',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\httpcore\\__init__.py',
+   'PYMODULE'),
+  ('httpcore._api',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\httpcore\\_api.py',
+   'PYMODULE'),
+  ('httpcore._async',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\httpcore\\_async\\__init__.py',
+   'PYMODULE'),
+  ('httpcore._async.connection',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\httpcore\\_async\\connection.py',
+   'PYMODULE'),
+  ('httpcore._async.connection_pool',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\httpcore\\_async\\connection_pool.py',
+   'PYMODULE'),
+  ('httpcore._async.http11',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\httpcore\\_async\\http11.py',
+   'PYMODULE'),
+  ('httpcore._async.http2',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\httpcore\\_async\\http2.py',
+   'PYMODULE'),
+  ('httpcore._async.http_proxy',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\httpcore\\_async\\http_proxy.py',
+   'PYMODULE'),
+  ('httpcore._async.interfaces',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\httpcore\\_async\\interfaces.py',
+   'PYMODULE'),
+  ('httpcore._async.socks_proxy',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\httpcore\\_async\\socks_proxy.py',
+   'PYMODULE'),
+  ('httpcore._backends',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\httpcore\\_backends\\__init__.py',
+   'PYMODULE'),
+  ('httpcore._backends.anyio',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\httpcore\\_backends\\anyio.py',
+   'PYMODULE'),
+  ('httpcore._backends.auto',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\httpcore\\_backends\\auto.py',
+   'PYMODULE'),
+  ('httpcore._backends.base',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\httpcore\\_backends\\base.py',
+   'PYMODULE'),
+  ('httpcore._backends.mock',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\httpcore\\_backends\\mock.py',
+   'PYMODULE'),
+  ('httpcore._backends.sync',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\httpcore\\_backends\\sync.py',
+   'PYMODULE'),
+  ('httpcore._backends.trio',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\httpcore\\_backends\\trio.py',
+   'PYMODULE'),
+  ('httpcore._exceptions',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\httpcore\\_exceptions.py',
+   'PYMODULE'),
+  ('httpcore._models',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\httpcore\\_models.py',
+   'PYMODULE'),
+  ('httpcore._ssl',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\httpcore\\_ssl.py',
+   'PYMODULE'),
+  ('httpcore._sync',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\httpcore\\_sync\\__init__.py',
+   'PYMODULE'),
+  ('httpcore._sync.connection',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\httpcore\\_sync\\connection.py',
+   'PYMODULE'),
+  ('httpcore._sync.connection_pool',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\httpcore\\_sync\\connection_pool.py',
+   'PYMODULE'),
+  ('httpcore._sync.http11',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\httpcore\\_sync\\http11.py',
+   'PYMODULE'),
+  ('httpcore._sync.http2',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\httpcore\\_sync\\http2.py',
+   'PYMODULE'),
+  ('httpcore._sync.http_proxy',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\httpcore\\_sync\\http_proxy.py',
+   'PYMODULE'),
+  ('httpcore._sync.interfaces',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\httpcore\\_sync\\interfaces.py',
+   'PYMODULE'),
+  ('httpcore._sync.socks_proxy',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\httpcore\\_sync\\socks_proxy.py',
+   'PYMODULE'),
+  ('httpcore._synchronization',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\httpcore\\_synchronization.py',
+   'PYMODULE'),
+  ('httpcore._trace',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\httpcore\\_trace.py',
+   'PYMODULE'),
+  ('httpcore._utils',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\httpcore\\_utils.py',
+   'PYMODULE'),
+  ('httpx',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\httpx\\__init__.py',
+   'PYMODULE'),
+  ('httpx.__version__',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\httpx\\__version__.py',
+   'PYMODULE'),
+  ('httpx._api',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\httpx\\_api.py',
+   'PYMODULE'),
+  ('httpx._auth',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\httpx\\_auth.py',
+   'PYMODULE'),
+  ('httpx._client',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\httpx\\_client.py',
+   'PYMODULE'),
+  ('httpx._config',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\httpx\\_config.py',
+   'PYMODULE'),
+  ('httpx._content',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\httpx\\_content.py',
+   'PYMODULE'),
+  ('httpx._decoders',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\httpx\\_decoders.py',
+   'PYMODULE'),
+  ('httpx._exceptions',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\httpx\\_exceptions.py',
+   'PYMODULE'),
+  ('httpx._main',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\httpx\\_main.py',
+   'PYMODULE'),
+  ('httpx._models',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\httpx\\_models.py',
+   'PYMODULE'),
+  ('httpx._multipart',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\httpx\\_multipart.py',
+   'PYMODULE'),
+  ('httpx._status_codes',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\httpx\\_status_codes.py',
+   'PYMODULE'),
+  ('httpx._transports',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\httpx\\_transports\\__init__.py',
+   'PYMODULE'),
+  ('httpx._transports.asgi',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\httpx\\_transports\\asgi.py',
+   'PYMODULE'),
+  ('httpx._transports.base',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\httpx\\_transports\\base.py',
+   'PYMODULE'),
+  ('httpx._transports.default',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\httpx\\_transports\\default.py',
+   'PYMODULE'),
+  ('httpx._transports.mock',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\httpx\\_transports\\mock.py',
+   'PYMODULE'),
+  ('httpx._transports.wsgi',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\httpx\\_transports\\wsgi.py',
+   'PYMODULE'),
+  ('httpx._types',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\httpx\\_types.py',
+   'PYMODULE'),
+  ('httpx._urlparse',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\httpx\\_urlparse.py',
+   'PYMODULE'),
+  ('httpx._urls',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\httpx\\_urls.py',
+   'PYMODULE'),
+  ('httpx._utils',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\httpx\\_utils.py',
+   'PYMODULE'),
+  ('idna',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\idna\\__init__.py',
+   'PYMODULE'),
+  ('idna.core',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\idna\\core.py',
+   'PYMODULE'),
+  ('idna.idnadata',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\idna\\idnadata.py',
+   'PYMODULE'),
+  ('idna.intranges',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\idna\\intranges.py',
+   'PYMODULE'),
+  ('idna.package_data',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\idna\\package_data.py',
+   'PYMODULE'),
+  ('idna.uts46data',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\idna\\uts46data.py',
+   'PYMODULE'),
+  ('importlib',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib._common',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\_common.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\metadata.py',
+   'PYMODULE'),
+  ('importlib.resources',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\resources.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('inspect',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\inspect.py',
+   'PYMODULE'),
+  ('ipaddress',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ipaddress.py',
+   'PYMODULE'),
+  ('json',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('logging',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('lzma',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\lzma.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\mimetypes.py',
+   'PYMODULE'),
+  ('multiprocessing',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.context',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\context.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\dummy\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.forkserver',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.heap',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\heap.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\managers.py',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\pool.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_fork',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_posix',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE'),
+  ('multiprocessing.process',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.queues',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\queues.py',
+   'PYMODULE'),
+  ('multiprocessing.reduction',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\reduction.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\resource_sharer.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_tracker',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\resource_tracker.py',
+   'PYMODULE'),
+  ('multiprocessing.shared_memory',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\shared_memory.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\sharedctypes.py',
+   'PYMODULE'),
+  ('multiprocessing.spawn',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\spawn.py',
+   'PYMODULE'),
+  ('multiprocessing.synchronize',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\synchronize.py',
+   'PYMODULE'),
+  ('multiprocessing.util',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\util.py',
+   'PYMODULE'),
+  ('netrc',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\netrc.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\nturl2path.py',
+   'PYMODULE'),
+  ('numbers',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\numbers.py',
+   'PYMODULE'),
+  ('oauthlib',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\oauthlib\\__init__.py',
+   'PYMODULE'),
+  ('oauthlib.common',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\oauthlib\\common.py',
+   'PYMODULE'),
+  ('oauthlib.oauth2',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\oauthlib\\oauth2\\__init__.py',
+   'PYMODULE'),
+  ('oauthlib.oauth2.rfc6749',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\__init__.py',
+   'PYMODULE'),
+  ('oauthlib.oauth2.rfc6749.clients',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\clients\\__init__.py',
+   'PYMODULE'),
+  ('oauthlib.oauth2.rfc6749.clients.backend_application',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\clients\\backend_application.py',
+   'PYMODULE'),
+  ('oauthlib.oauth2.rfc6749.clients.base',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\clients\\base.py',
+   'PYMODULE'),
+  ('oauthlib.oauth2.rfc6749.clients.legacy_application',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\clients\\legacy_application.py',
+   'PYMODULE'),
+  ('oauthlib.oauth2.rfc6749.clients.mobile_application',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\clients\\mobile_application.py',
+   'PYMODULE'),
+  ('oauthlib.oauth2.rfc6749.clients.service_application',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\clients\\service_application.py',
+   'PYMODULE'),
+  ('oauthlib.oauth2.rfc6749.clients.web_application',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\clients\\web_application.py',
+   'PYMODULE'),
+  ('oauthlib.oauth2.rfc6749.endpoints',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\endpoints\\__init__.py',
+   'PYMODULE'),
+  ('oauthlib.oauth2.rfc6749.endpoints.authorization',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\endpoints\\authorization.py',
+   'PYMODULE'),
+  ('oauthlib.oauth2.rfc6749.endpoints.base',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\endpoints\\base.py',
+   'PYMODULE'),
+  ('oauthlib.oauth2.rfc6749.endpoints.introspect',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\endpoints\\introspect.py',
+   'PYMODULE'),
+  ('oauthlib.oauth2.rfc6749.endpoints.metadata',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\endpoints\\metadata.py',
+   'PYMODULE'),
+  ('oauthlib.oauth2.rfc6749.endpoints.pre_configured',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\endpoints\\pre_configured.py',
+   'PYMODULE'),
+  ('oauthlib.oauth2.rfc6749.endpoints.resource',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\endpoints\\resource.py',
+   'PYMODULE'),
+  ('oauthlib.oauth2.rfc6749.endpoints.revocation',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\endpoints\\revocation.py',
+   'PYMODULE'),
+  ('oauthlib.oauth2.rfc6749.endpoints.token',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\endpoints\\token.py',
+   'PYMODULE'),
+  ('oauthlib.oauth2.rfc6749.errors',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\errors.py',
+   'PYMODULE'),
+  ('oauthlib.oauth2.rfc6749.grant_types',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\grant_types\\__init__.py',
+   'PYMODULE'),
+  ('oauthlib.oauth2.rfc6749.grant_types.authorization_code',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\grant_types\\authorization_code.py',
+   'PYMODULE'),
+  ('oauthlib.oauth2.rfc6749.grant_types.base',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\grant_types\\base.py',
+   'PYMODULE'),
+  ('oauthlib.oauth2.rfc6749.grant_types.client_credentials',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\grant_types\\client_credentials.py',
+   'PYMODULE'),
+  ('oauthlib.oauth2.rfc6749.grant_types.implicit',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\grant_types\\implicit.py',
+   'PYMODULE'),
+  ('oauthlib.oauth2.rfc6749.grant_types.refresh_token',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\grant_types\\refresh_token.py',
+   'PYMODULE'),
+  ('oauthlib.oauth2.rfc6749.grant_types.resource_owner_password_credentials',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\grant_types\\resource_owner_password_credentials.py',
+   'PYMODULE'),
+  ('oauthlib.oauth2.rfc6749.parameters',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\parameters.py',
+   'PYMODULE'),
+  ('oauthlib.oauth2.rfc6749.request_validator',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\request_validator.py',
+   'PYMODULE'),
+  ('oauthlib.oauth2.rfc6749.tokens',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\tokens.py',
+   'PYMODULE'),
+  ('oauthlib.oauth2.rfc6749.utils',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\utils.py',
+   'PYMODULE'),
+  ('oauthlib.oauth2.rfc8628',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\oauthlib\\oauth2\\rfc8628\\__init__.py',
+   'PYMODULE'),
+  ('oauthlib.oauth2.rfc8628.clients',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\oauthlib\\oauth2\\rfc8628\\clients\\__init__.py',
+   'PYMODULE'),
+  ('oauthlib.oauth2.rfc8628.clients.device',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\oauthlib\\oauth2\\rfc8628\\clients\\device.py',
+   'PYMODULE'),
+  ('oauthlib.oauth2.rfc8628.endpoints',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\oauthlib\\oauth2\\rfc8628\\endpoints\\__init__.py',
+   'PYMODULE'),
+  ('oauthlib.oauth2.rfc8628.endpoints.device_authorization',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\oauthlib\\oauth2\\rfc8628\\endpoints\\device_authorization.py',
+   'PYMODULE'),
+  ('oauthlib.oauth2.rfc8628.endpoints.pre_configured',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\oauthlib\\oauth2\\rfc8628\\endpoints\\pre_configured.py',
+   'PYMODULE'),
+  ('oauthlib.oauth2.rfc8628.errors',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\oauthlib\\oauth2\\rfc8628\\errors.py',
+   'PYMODULE'),
+  ('oauthlib.oauth2.rfc8628.grant_types',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\oauthlib\\oauth2\\rfc8628\\grant_types\\__init__.py',
+   'PYMODULE'),
+  ('oauthlib.oauth2.rfc8628.grant_types.device_code',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\oauthlib\\oauth2\\rfc8628\\grant_types\\device_code.py',
+   'PYMODULE'),
+  ('oauthlib.openid',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\oauthlib\\openid\\__init__.py',
+   'PYMODULE'),
+  ('oauthlib.openid.connect',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\oauthlib\\openid\\connect\\__init__.py',
+   'PYMODULE'),
+  ('oauthlib.openid.connect.core',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\oauthlib\\openid\\connect\\core\\__init__.py',
+   'PYMODULE'),
+  ('oauthlib.openid.connect.core.endpoints',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\oauthlib\\openid\\connect\\core\\endpoints\\__init__.py',
+   'PYMODULE'),
+  ('oauthlib.openid.connect.core.endpoints.pre_configured',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\oauthlib\\openid\\connect\\core\\endpoints\\pre_configured.py',
+   'PYMODULE'),
+  ('oauthlib.openid.connect.core.endpoints.userinfo',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\oauthlib\\openid\\connect\\core\\endpoints\\userinfo.py',
+   'PYMODULE'),
+  ('oauthlib.openid.connect.core.grant_types',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\oauthlib\\openid\\connect\\core\\grant_types\\__init__.py',
+   'PYMODULE'),
+  ('oauthlib.openid.connect.core.grant_types.authorization_code',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\oauthlib\\openid\\connect\\core\\grant_types\\authorization_code.py',
+   'PYMODULE'),
+  ('oauthlib.openid.connect.core.grant_types.base',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\oauthlib\\openid\\connect\\core\\grant_types\\base.py',
+   'PYMODULE'),
+  ('oauthlib.openid.connect.core.grant_types.dispatchers',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\oauthlib\\openid\\connect\\core\\grant_types\\dispatchers.py',
+   'PYMODULE'),
+  ('oauthlib.openid.connect.core.grant_types.hybrid',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\oauthlib\\openid\\connect\\core\\grant_types\\hybrid.py',
+   'PYMODULE'),
+  ('oauthlib.openid.connect.core.grant_types.implicit',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\oauthlib\\openid\\connect\\core\\grant_types\\implicit.py',
+   'PYMODULE'),
+  ('oauthlib.openid.connect.core.grant_types.refresh_token',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\oauthlib\\openid\\connect\\core\\grant_types\\refresh_token.py',
+   'PYMODULE'),
+  ('oauthlib.openid.connect.core.request_validator',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\oauthlib\\openid\\connect\\core\\request_validator.py',
+   'PYMODULE'),
+  ('oauthlib.openid.connect.core.tokens',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\oauthlib\\openid\\connect\\core\\tokens.py',
+   'PYMODULE'),
+  ('oauthlib.signals',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\oauthlib\\signals.py',
+   'PYMODULE'),
+  ('oauthlib.uri_validate',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\oauthlib\\uri_validate.py',
+   'PYMODULE'),
+  ('opcode',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\opcode.py',
+   'PYMODULE'),
+  ('optparse',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\optparse.py',
+   'PYMODULE'),
+  ('pathlib',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pathlib.py',
+   'PYMODULE'),
+  ('pickle',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pickle.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pkgutil.py',
+   'PYMODULE'),
+  ('platform',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\platform.py',
+   'PYMODULE'),
+  ('pprint',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pprint.py',
+   'PYMODULE'),
+  ('psutil',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\psutil\\__init__.py',
+   'PYMODULE'),
+  ('psutil._common',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\psutil\\_common.py',
+   'PYMODULE'),
+  ('psutil._ntuples',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\psutil\\_ntuples.py',
+   'PYMODULE'),
+  ('psutil._pswindows',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\psutil\\_pswindows.py',
+   'PYMODULE'),
+  ('py_compile',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\py_compile.py',
+   'PYMODULE'),
+  ('pythoncom',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\pythoncom.py',
+   'PYMODULE'),
+  ('pywin',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\Pythonwin\\pywin\\__init__.py',
+   'PYMODULE'),
+  ('pywin.dialogs',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\Pythonwin\\pywin\\dialogs\\__init__.py',
+   'PYMODULE'),
+  ('pywin.dialogs.list',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\Pythonwin\\pywin\\dialogs\\list.py',
+   'PYMODULE'),
+  ('pywin.dialogs.status',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\Pythonwin\\pywin\\dialogs\\status.py',
+   'PYMODULE'),
+  ('pywin.mfc',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\Pythonwin\\pywin\\mfc\\__init__.py',
+   'PYMODULE'),
+  ('pywin.mfc.dialog',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\Pythonwin\\pywin\\mfc\\dialog.py',
+   'PYMODULE'),
+  ('pywin.mfc.object',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\Pythonwin\\pywin\\mfc\\object.py',
+   'PYMODULE'),
+  ('pywin.mfc.thread',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\Pythonwin\\pywin\\mfc\\thread.py',
+   'PYMODULE'),
+  ('pywin.mfc.window',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\Pythonwin\\pywin\\mfc\\window.py',
+   'PYMODULE'),
+  ('pywin32_system32', '-', 'PYMODULE'),
+  ('pywintypes',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\win32\\lib\\pywintypes.py',
+   'PYMODULE'),
+  ('queue',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\queue.py',
+   'PYMODULE'),
+  ('quopri',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\quopri.py',
+   'PYMODULE'),
+  ('random',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\random.py',
+   'PYMODULE'),
+  ('repath',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\repath.py',
+   'PYMODULE'),
+  ('rlcompleter',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\rlcompleter.py',
+   'PYMODULE'),
+  ('runpy',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\runpy.py',
+   'PYMODULE'),
+  ('scapy',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\__init__.py',
+   'PYMODULE'),
+  ('scapy.all',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\all.py',
+   'PYMODULE'),
+  ('scapy.ansmachine',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\ansmachine.py',
+   'PYMODULE'),
+  ('scapy.arch',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\arch\\__init__.py',
+   'PYMODULE'),
+  ('scapy.arch.bpf',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\arch\\bpf\\__init__.py',
+   'PYMODULE'),
+  ('scapy.arch.bpf.consts',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\arch\\bpf\\consts.py',
+   'PYMODULE'),
+  ('scapy.arch.bpf.core',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\arch\\bpf\\core.py',
+   'PYMODULE'),
+  ('scapy.arch.bpf.pfroute',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\arch\\bpf\\pfroute.py',
+   'PYMODULE'),
+  ('scapy.arch.bpf.supersocket',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\arch\\bpf\\supersocket.py',
+   'PYMODULE'),
+  ('scapy.arch.common',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\arch\\common.py',
+   'PYMODULE'),
+  ('scapy.arch.libpcap',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\arch\\libpcap.py',
+   'PYMODULE'),
+  ('scapy.arch.linux',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\arch\\linux\\__init__.py',
+   'PYMODULE'),
+  ('scapy.arch.linux.rtnetlink',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\arch\\linux\\rtnetlink.py',
+   'PYMODULE'),
+  ('scapy.arch.solaris',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\arch\\solaris.py',
+   'PYMODULE'),
+  ('scapy.arch.unix',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\arch\\unix.py',
+   'PYMODULE'),
+  ('scapy.arch.windows',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\arch\\windows\\__init__.py',
+   'PYMODULE'),
+  ('scapy.arch.windows.native',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\arch\\windows\\native.py',
+   'PYMODULE'),
+  ('scapy.arch.windows.structures',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\arch\\windows\\structures.py',
+   'PYMODULE'),
+  ('scapy.as_resolvers',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\as_resolvers.py',
+   'PYMODULE'),
+  ('scapy.asn1',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\asn1\\__init__.py',
+   'PYMODULE'),
+  ('scapy.asn1.asn1',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\asn1\\asn1.py',
+   'PYMODULE'),
+  ('scapy.asn1.ber',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\asn1\\ber.py',
+   'PYMODULE'),
+  ('scapy.asn1.mib',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\asn1\\mib.py',
+   'PYMODULE'),
+  ('scapy.asn1fields',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\asn1fields.py',
+   'PYMODULE'),
+  ('scapy.asn1packet',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\asn1packet.py',
+   'PYMODULE'),
+  ('scapy.automaton',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\automaton.py',
+   'PYMODULE'),
+  ('scapy.autorun',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\autorun.py',
+   'PYMODULE'),
+  ('scapy.base_classes',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\base_classes.py',
+   'PYMODULE'),
+  ('scapy.compat',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\compat.py',
+   'PYMODULE'),
+  ('scapy.config',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\config.py',
+   'PYMODULE'),
+  ('scapy.consts',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\consts.py',
+   'PYMODULE'),
+  ('scapy.contrib',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\contrib\\__init__.py',
+   'PYMODULE'),
+  ('scapy.contrib.cdp',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\contrib\\cdp.py',
+   'PYMODULE'),
+  ('scapy.contrib.ethercat',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\contrib\\ethercat.py',
+   'PYMODULE'),
+  ('scapy.contrib.http2',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\contrib\\http2.py',
+   'PYMODULE'),
+  ('scapy.contrib.lldp',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\contrib\\lldp.py',
+   'PYMODULE'),
+  ('scapy.contrib.rtps',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\contrib\\rtps\\__init__.py',
+   'PYMODULE'),
+  ('scapy.contrib.rtps.common_types',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\contrib\\rtps\\common_types.py',
+   'PYMODULE'),
+  ('scapy.contrib.rtps.pid_types',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\contrib\\rtps\\pid_types.py',
+   'PYMODULE'),
+  ('scapy.contrib.rtps.rtps',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\contrib\\rtps\\rtps.py',
+   'PYMODULE'),
+  ('scapy.dadict',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\dadict.py',
+   'PYMODULE'),
+  ('scapy.data',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\data.py',
+   'PYMODULE'),
+  ('scapy.error',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\error.py',
+   'PYMODULE'),
+  ('scapy.fields',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\fields.py',
+   'PYMODULE'),
+  ('scapy.interfaces',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\interfaces.py',
+   'PYMODULE'),
+  ('scapy.layers',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\__init__.py',
+   'PYMODULE'),
+  ('scapy.layers.all',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\all.py',
+   'PYMODULE'),
+  ('scapy.layers.bluetooth',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\bluetooth.py',
+   'PYMODULE'),
+  ('scapy.layers.bluetooth4LE',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\bluetooth4LE.py',
+   'PYMODULE'),
+  ('scapy.layers.can',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\can.py',
+   'PYMODULE'),
+  ('scapy.layers.clns',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\clns.py',
+   'PYMODULE'),
+  ('scapy.layers.dcerpc',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\dcerpc.py',
+   'PYMODULE'),
+  ('scapy.layers.dhcp',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\dhcp.py',
+   'PYMODULE'),
+  ('scapy.layers.dhcp6',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\dhcp6.py',
+   'PYMODULE'),
+  ('scapy.layers.dns',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\dns.py',
+   'PYMODULE'),
+  ('scapy.layers.dot11',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\dot11.py',
+   'PYMODULE'),
+  ('scapy.layers.dot15d4',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\dot15d4.py',
+   'PYMODULE'),
+  ('scapy.layers.eap',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\eap.py',
+   'PYMODULE'),
+  ('scapy.layers.gprs',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\gprs.py',
+   'PYMODULE'),
+  ('scapy.layers.gssapi',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\gssapi.py',
+   'PYMODULE'),
+  ('scapy.layers.hsrp',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\hsrp.py',
+   'PYMODULE'),
+  ('scapy.layers.http',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\http.py',
+   'PYMODULE'),
+  ('scapy.layers.inet',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\inet.py',
+   'PYMODULE'),
+  ('scapy.layers.inet6',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\inet6.py',
+   'PYMODULE'),
+  ('scapy.layers.ipsec',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\ipsec.py',
+   'PYMODULE'),
+  ('scapy.layers.ir',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\ir.py',
+   'PYMODULE'),
+  ('scapy.layers.isakmp',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\isakmp.py',
+   'PYMODULE'),
+  ('scapy.layers.kerberos',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\kerberos.py',
+   'PYMODULE'),
+  ('scapy.layers.l2',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\l2.py',
+   'PYMODULE'),
+  ('scapy.layers.l2tp',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\l2tp.py',
+   'PYMODULE'),
+  ('scapy.layers.ldap',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\ldap.py',
+   'PYMODULE'),
+  ('scapy.layers.llmnr',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\llmnr.py',
+   'PYMODULE'),
+  ('scapy.layers.lltd',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\lltd.py',
+   'PYMODULE'),
+  ('scapy.layers.mgcp',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\mgcp.py',
+   'PYMODULE'),
+  ('scapy.layers.mobileip',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\mobileip.py',
+   'PYMODULE'),
+  ('scapy.layers.ms_nrtp',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\ms_nrtp.py',
+   'PYMODULE'),
+  ('scapy.layers.msrpce',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\msrpce\\__init__.py',
+   'PYMODULE'),
+  ('scapy.layers.msrpce.all',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\msrpce\\all.py',
+   'PYMODULE'),
+  ('scapy.layers.msrpce.ept',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\msrpce\\ept.py',
+   'PYMODULE'),
+  ('scapy.layers.msrpce.msdcom',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\msrpce\\msdcom.py',
+   'PYMODULE'),
+  ('scapy.layers.msrpce.msdrsr',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\msrpce\\msdrsr.py',
+   'PYMODULE'),
+  ('scapy.layers.msrpce.mseerr',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\msrpce\\mseerr.py',
+   'PYMODULE'),
+  ('scapy.layers.msrpce.msnrpc',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\msrpce\\msnrpc.py',
+   'PYMODULE'),
+  ('scapy.layers.msrpce.mspac',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\msrpce\\mspac.py',
+   'PYMODULE'),
+  ('scapy.layers.msrpce.raw',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\msrpce\\raw\\__init__.py',
+   'PYMODULE'),
+  ('scapy.layers.msrpce.raw.ept',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\msrpce\\raw\\ept.py',
+   'PYMODULE'),
+  ('scapy.layers.msrpce.raw.ms_dcom',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\msrpce\\raw\\ms_dcom.py',
+   'PYMODULE'),
+  ('scapy.layers.msrpce.raw.ms_drsr',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\msrpce\\raw\\ms_drsr.py',
+   'PYMODULE'),
+  ('scapy.layers.msrpce.raw.ms_eerr',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\msrpce\\raw\\ms_eerr.py',
+   'PYMODULE'),
+  ('scapy.layers.msrpce.raw.ms_nrpc',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\msrpce\\raw\\ms_nrpc.py',
+   'PYMODULE'),
+  ('scapy.layers.msrpce.raw.ms_samr',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\msrpce\\raw\\ms_samr.py',
+   'PYMODULE'),
+  ('scapy.layers.msrpce.raw.ms_srvs',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\msrpce\\raw\\ms_srvs.py',
+   'PYMODULE'),
+  ('scapy.layers.msrpce.raw.ms_wkst',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\msrpce\\raw\\ms_wkst.py',
+   'PYMODULE'),
+  ('scapy.layers.msrpce.rpcclient',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\msrpce\\rpcclient.py',
+   'PYMODULE'),
+  ('scapy.layers.msrpce.rpcserver',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\msrpce\\rpcserver.py',
+   'PYMODULE'),
+  ('scapy.layers.netbios',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\netbios.py',
+   'PYMODULE'),
+  ('scapy.layers.netflow',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\netflow.py',
+   'PYMODULE'),
+  ('scapy.layers.ntlm',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\ntlm.py',
+   'PYMODULE'),
+  ('scapy.layers.ntp',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\ntp.py',
+   'PYMODULE'),
+  ('scapy.layers.pflog',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\pflog.py',
+   'PYMODULE'),
+  ('scapy.layers.ppi',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\ppi.py',
+   'PYMODULE'),
+  ('scapy.layers.ppp',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\ppp.py',
+   'PYMODULE'),
+  ('scapy.layers.pptp',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\pptp.py',
+   'PYMODULE'),
+  ('scapy.layers.quic',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\quic.py',
+   'PYMODULE'),
+  ('scapy.layers.radius',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\radius.py',
+   'PYMODULE'),
+  ('scapy.layers.rip',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\rip.py',
+   'PYMODULE'),
+  ('scapy.layers.rtp',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\rtp.py',
+   'PYMODULE'),
+  ('scapy.layers.sctp',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\sctp.py',
+   'PYMODULE'),
+  ('scapy.layers.sixlowpan',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\sixlowpan.py',
+   'PYMODULE'),
+  ('scapy.layers.skinny',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\skinny.py',
+   'PYMODULE'),
+  ('scapy.layers.smb',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\smb.py',
+   'PYMODULE'),
+  ('scapy.layers.smb2',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\smb2.py',
+   'PYMODULE'),
+  ('scapy.layers.smbclient',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\smbclient.py',
+   'PYMODULE'),
+  ('scapy.layers.smbserver',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\smbserver.py',
+   'PYMODULE'),
+  ('scapy.layers.snmp',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\snmp.py',
+   'PYMODULE'),
+  ('scapy.layers.spnego',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\spnego.py',
+   'PYMODULE'),
+  ('scapy.layers.ssh',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\ssh.py',
+   'PYMODULE'),
+  ('scapy.layers.tftp',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\tftp.py',
+   'PYMODULE'),
+  ('scapy.layers.tls',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\tls\\__init__.py',
+   'PYMODULE'),
+  ('scapy.layers.tls.all',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\tls\\all.py',
+   'PYMODULE'),
+  ('scapy.layers.tls.automaton',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\tls\\automaton.py',
+   'PYMODULE'),
+  ('scapy.layers.tls.automaton_cli',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\tls\\automaton_cli.py',
+   'PYMODULE'),
+  ('scapy.layers.tls.automaton_srv',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\tls\\automaton_srv.py',
+   'PYMODULE'),
+  ('scapy.layers.tls.basefields',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\tls\\basefields.py',
+   'PYMODULE'),
+  ('scapy.layers.tls.cert',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\tls\\cert.py',
+   'PYMODULE'),
+  ('scapy.layers.tls.crypto',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\tls\\crypto\\__init__.py',
+   'PYMODULE'),
+  ('scapy.layers.tls.crypto.all',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\tls\\crypto\\all.py',
+   'PYMODULE'),
+  ('scapy.layers.tls.crypto.cipher_aead',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\tls\\crypto\\cipher_aead.py',
+   'PYMODULE'),
+  ('scapy.layers.tls.crypto.cipher_block',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\tls\\crypto\\cipher_block.py',
+   'PYMODULE'),
+  ('scapy.layers.tls.crypto.cipher_stream',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\tls\\crypto\\cipher_stream.py',
+   'PYMODULE'),
+  ('scapy.layers.tls.crypto.ciphers',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\tls\\crypto\\ciphers.py',
+   'PYMODULE'),
+  ('scapy.layers.tls.crypto.common',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\tls\\crypto\\common.py',
+   'PYMODULE'),
+  ('scapy.layers.tls.crypto.compression',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\tls\\crypto\\compression.py',
+   'PYMODULE'),
+  ('scapy.layers.tls.crypto.groups',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\tls\\crypto\\groups.py',
+   'PYMODULE'),
+  ('scapy.layers.tls.crypto.h_mac',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\tls\\crypto\\h_mac.py',
+   'PYMODULE'),
+  ('scapy.layers.tls.crypto.hash',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\tls\\crypto\\hash.py',
+   'PYMODULE'),
+  ('scapy.layers.tls.crypto.hkdf',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\tls\\crypto\\hkdf.py',
+   'PYMODULE'),
+  ('scapy.layers.tls.crypto.kx_algs',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\tls\\crypto\\kx_algs.py',
+   'PYMODULE'),
+  ('scapy.layers.tls.crypto.md4',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\tls\\crypto\\md4.py',
+   'PYMODULE'),
+  ('scapy.layers.tls.crypto.pkcs1',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\tls\\crypto\\pkcs1.py',
+   'PYMODULE'),
+  ('scapy.layers.tls.crypto.prf',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\tls\\crypto\\prf.py',
+   'PYMODULE'),
+  ('scapy.layers.tls.crypto.suites',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\tls\\crypto\\suites.py',
+   'PYMODULE'),
+  ('scapy.layers.tls.extensions',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\tls\\extensions.py',
+   'PYMODULE'),
+  ('scapy.layers.tls.handshake',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\tls\\handshake.py',
+   'PYMODULE'),
+  ('scapy.layers.tls.handshake_sslv2',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\tls\\handshake_sslv2.py',
+   'PYMODULE'),
+  ('scapy.layers.tls.keyexchange',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\tls\\keyexchange.py',
+   'PYMODULE'),
+  ('scapy.layers.tls.keyexchange_tls13',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\tls\\keyexchange_tls13.py',
+   'PYMODULE'),
+  ('scapy.layers.tls.quic',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\tls\\quic.py',
+   'PYMODULE'),
+  ('scapy.layers.tls.record',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\tls\\record.py',
+   'PYMODULE'),
+  ('scapy.layers.tls.record_sslv2',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\tls\\record_sslv2.py',
+   'PYMODULE'),
+  ('scapy.layers.tls.record_tls13',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\tls\\record_tls13.py',
+   'PYMODULE'),
+  ('scapy.layers.tls.session',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\tls\\session.py',
+   'PYMODULE'),
+  ('scapy.layers.tls.tools',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\tls\\tools.py',
+   'PYMODULE'),
+  ('scapy.layers.tpm',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\tpm.py',
+   'PYMODULE'),
+  ('scapy.layers.tuntap',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\tuntap.py',
+   'PYMODULE'),
+  ('scapy.layers.usb',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\usb.py',
+   'PYMODULE'),
+  ('scapy.layers.vrrp',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\vrrp.py',
+   'PYMODULE'),
+  ('scapy.layers.vxlan',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\vxlan.py',
+   'PYMODULE'),
+  ('scapy.layers.x509',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\x509.py',
+   'PYMODULE'),
+  ('scapy.layers.zigbee',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\layers\\zigbee.py',
+   'PYMODULE'),
+  ('scapy.libs',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\libs\\__init__.py',
+   'PYMODULE'),
+  ('scapy.libs.bluetoothids',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\libs\\bluetoothids.py',
+   'PYMODULE'),
+  ('scapy.libs.ethertypes',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\libs\\ethertypes.py',
+   'PYMODULE'),
+  ('scapy.libs.extcap',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\libs\\extcap.py',
+   'PYMODULE'),
+  ('scapy.libs.manuf',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\libs\\manuf.py',
+   'PYMODULE'),
+  ('scapy.libs.matplot',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\libs\\matplot.py',
+   'PYMODULE'),
+  ('scapy.libs.rfc3961',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\libs\\rfc3961.py',
+   'PYMODULE'),
+  ('scapy.libs.structures',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\libs\\structures.py',
+   'PYMODULE'),
+  ('scapy.libs.test_pyx',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\libs\\test_pyx.py',
+   'PYMODULE'),
+  ('scapy.libs.winpcapy',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\libs\\winpcapy.py',
+   'PYMODULE'),
+  ('scapy.main',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\main.py',
+   'PYMODULE'),
+  ('scapy.modules',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\modules\\__init__.py',
+   'PYMODULE'),
+  ('scapy.modules.nmap',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\modules\\nmap.py',
+   'PYMODULE'),
+  ('scapy.modules.ticketer',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\modules\\ticketer.py',
+   'PYMODULE'),
+  ('scapy.packet',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\packet.py',
+   'PYMODULE'),
+  ('scapy.pipetool',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\pipetool.py',
+   'PYMODULE'),
+  ('scapy.plist',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\plist.py',
+   'PYMODULE'),
+  ('scapy.pton_ntop',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\pton_ntop.py',
+   'PYMODULE'),
+  ('scapy.route',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\route.py',
+   'PYMODULE'),
+  ('scapy.route6',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\route6.py',
+   'PYMODULE'),
+  ('scapy.scapypipes',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\scapypipes.py',
+   'PYMODULE'),
+  ('scapy.sendrecv',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\sendrecv.py',
+   'PYMODULE'),
+  ('scapy.sessions',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\sessions.py',
+   'PYMODULE'),
+  ('scapy.supersocket',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\supersocket.py',
+   'PYMODULE'),
+  ('scapy.themes',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\themes.py',
+   'PYMODULE'),
+  ('scapy.utils',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\utils.py',
+   'PYMODULE'),
+  ('scapy.utils6',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\utils6.py',
+   'PYMODULE'),
+  ('scapy.volatile',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\scapy\\volatile.py',
+   'PYMODULE'),
+  ('secrets',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\secrets.py',
+   'PYMODULE'),
+  ('selectors',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\selectors.py',
+   'PYMODULE'),
+  ('shlex',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\shlex.py',
+   'PYMODULE'),
+  ('shutil',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\shutil.py',
+   'PYMODULE'),
+  ('signal',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\signal.py',
+   'PYMODULE'),
+  ('six',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\six.py',
+   'PYMODULE'),
+  ('socket',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\socket.py',
+   'PYMODULE'),
+  ('src',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network Tool\\src\\__init__.py',
+   'PYMODULE'),
+  ('src.gui',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network Tool\\src\\gui\\__init__.py',
+   'PYMODULE'),
+  ('src.gui.flet_app',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network Tool\\src\\gui\\flet_app.py',
+   'PYMODULE'),
+  ('src.network',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\src\\network\\__init__.py',
+   'PYMODULE'),
+  ('src.network.connectivity',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\src\\network\\connectivity.py',
+   'PYMODULE'),
+  ('src.network.discovery',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\src\\network\\discovery.py',
+   'PYMODULE'),
+  ('src.network.interface_info',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\src\\network\\interface_info.py',
+   'PYMODULE'),
+  ('ssl',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ssl.py',
+   'PYMODULE'),
+  ('statistics',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\statistics.py',
+   'PYMODULE'),
+  ('string',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\string.py',
+   'PYMODULE'),
+  ('stringprep',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('subprocess',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\subprocess.py',
+   'PYMODULE'),
+  ('tarfile',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tarfile.py',
+   'PYMODULE'),
+  ('tempfile',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tempfile.py',
+   'PYMODULE'),
+  ('textwrap',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\textwrap.py',
+   'PYMODULE'),
+  ('threading',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\threading.py',
+   'PYMODULE'),
+  ('tkinter',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tkinter\\__init__.py',
+   'PYMODULE'),
+  ('tkinter.commondialog',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tkinter\\commondialog.py',
+   'PYMODULE'),
+  ('tkinter.constants',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tkinter\\constants.py',
+   'PYMODULE'),
+  ('tkinter.messagebox',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tkinter\\messagebox.py',
+   'PYMODULE'),
+  ('tkinter.simpledialog',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tkinter\\simpledialog.py',
+   'PYMODULE'),
+  ('tkinter.ttk',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tkinter\\ttk.py',
+   'PYMODULE'),
+  ('token',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\token.py',
+   'PYMODULE'),
+  ('tokenize',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tokenize.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('typing',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\typing.py',
+   'PYMODULE'),
+  ('typing_extensions',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\typing_extensions.py',
+   'PYMODULE'),
+  ('unittest',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('unittest._log',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\_log.py',
+   'PYMODULE'),
+  ('unittest.async_case',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\async_case.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.mock',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\mock.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\util.py',
+   'PYMODULE'),
+  ('urllib',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('uu',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\uu.py',
+   'PYMODULE'),
+  ('uuid',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\uuid.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\webbrowser.py',
+   'PYMODULE'),
+  ('win32com',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\win32com\\__init__.py',
+   'PYMODULE'),
+  ('win32com.client',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\win32com\\client\\__init__.py',
+   'PYMODULE'),
+  ('win32com.client.CLSIDToClass',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\win32com\\client\\CLSIDToClass.py',
+   'PYMODULE'),
+  ('win32com.client.build',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\win32com\\client\\build.py',
+   'PYMODULE'),
+  ('win32com.client.dynamic',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\win32com\\client\\dynamic.py',
+   'PYMODULE'),
+  ('win32com.client.gencache',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\win32com\\client\\gencache.py',
+   'PYMODULE'),
+  ('win32com.client.genpy',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\win32com\\client\\genpy.py',
+   'PYMODULE'),
+  ('win32com.client.makepy',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\win32com\\client\\makepy.py',
+   'PYMODULE'),
+  ('win32com.client.selecttlb',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\win32com\\client\\selecttlb.py',
+   'PYMODULE'),
+  ('win32com.client.util',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\win32com\\client\\util.py',
+   'PYMODULE'),
+  ('win32com.server',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\win32com\\server\\__init__.py',
+   'PYMODULE'),
+  ('win32com.server.dispatcher',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\win32com\\server\\dispatcher.py',
+   'PYMODULE'),
+  ('win32com.server.exception',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\win32com\\server\\exception.py',
+   'PYMODULE'),
+  ('win32com.server.policy',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\win32com\\server\\policy.py',
+   'PYMODULE'),
+  ('win32com.server.util',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\win32com\\server\\util.py',
+   'PYMODULE'),
+  ('win32com.universal',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\win32com\\universal.py',
+   'PYMODULE'),
+  ('win32com.util',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\win32com\\util.py',
+   'PYMODULE'),
+  ('win32con',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\win32\\lib\\win32con.py',
+   'PYMODULE'),
+  ('win32traceutil',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\win32\\lib\\win32traceutil.py',
+   'PYMODULE'),
+  ('winerror',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\win32\\lib\\winerror.py',
+   'PYMODULE'),
+  ('wmi',
+   'C:\\Users\\Felipy Ribeiro\\Desktop\\Network '
+   'Tool\\.venv\\lib\\site-packages\\wmi.py',
+   'PYMODULE'),
+  ('xml',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.etree',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\etree\\__init__.py',
+   'PYMODULE'),
+  ('xml.etree.ElementInclude',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\etree\\ElementInclude.py',
+   'PYMODULE'),
+  ('xml.etree.ElementPath',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\etree\\ElementPath.py',
+   'PYMODULE'),
+  ('xml.etree.ElementTree',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\etree\\ElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.cElementTree',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\etree\\cElementTree.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('xmlrpc',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xmlrpc\\__init__.py',
+   'PYMODULE'),
+  ('xmlrpc.client',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xmlrpc\\client.py',
+   'PYMODULE'),
+  ('zipfile',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\zipfile.py',
+   'PYMODULE'),
+  ('zipimport',
+   'C:\\Users\\Felipy '
+   'Ribeiro\\AppData\\Local\\Programs\\Python\\Python39\\lib\\zipimport.py',
+   'PYMODULE')])
