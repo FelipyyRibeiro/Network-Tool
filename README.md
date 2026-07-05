@@ -59,4 +59,5 @@ O projeto foi desenvolvido seguindo práticas de segurança para minimizar risco
 5.  Visualize os resultados nos cartões abaixo.
 
 ---
-**Desenvolvido por:** Felipe Ribeiro | Ramal: 8001 - 2524
+**Desenvolvido por:** Felipe Ribeiro | email: felipyribeiro24@gmail.com
+
